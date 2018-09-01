@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234080083530",
+    "firebase_url": "https://mepoupe-dd702.firebaseio.com",
+    "project_id": "mepoupe-dd702",
+    "storage_bucket": "mepoupe-dd702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234080083530:android:a602e983164f775b",
+        "android_client_info": {
+          "package_name": "com.example.universodoandroid.mepoupe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234080083530-67b4pr75jvtgd97n68viurejnpq6bj4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.universodoandroid.mepoupe",
+            "certificate_hash": "29c94698c252c956984bb30df69717be651cc03d"
+          }
+        },
+        {
+          "client_id": "234080083530-a8ngiu61n73sd85r66bt96anl1j1fma7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpM5ePDrb-bDDI9ls_YoQvWc-NaL5Svw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234080083530-a8ngiu61n73sd85r66bt96anl1j1fma7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
